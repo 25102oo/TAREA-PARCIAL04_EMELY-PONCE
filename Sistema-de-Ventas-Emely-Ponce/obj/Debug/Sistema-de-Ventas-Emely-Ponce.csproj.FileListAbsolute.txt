@@ -1,0 +1,11 @@
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\bin\Debug\Sistema-de-Ventas-Emely-Ponce.exe.config
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\bin\Debug\Sistema-de-Ventas-Emely-Ponce.exe
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\bin\Debug\Sistema-de-Ventas-Emely-Ponce.pdb
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\obj\Debug\Sistema-de-Ventas-Emely-Ponce.csproj.AssemblyReference.cache
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\obj\Debug\Sistema-de-Ventas-Emely-Ponce.csproj.SuggestedBindingRedirects.cache
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\obj\Debug\Sistema_de_Ventas_Emely_Ponce.Form1.resources
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\obj\Debug\Sistema_de_Ventas_Emely_Ponce.Properties.Resources.resources
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\obj\Debug\Sistema-de-Ventas-Emely-Ponce.csproj.GenerateResource.cache
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\obj\Debug\Sistema-de-Ventas-Emely-Ponce.csproj.CoreCompileInputs.cache
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\obj\Debug\Sistema-de-Ventas-Emely-Ponce.exe
+E:\Sistema-de-Ventas-Emely-Ponce\Sistema-de-Ventas-Emely-Ponce\obj\Debug\Sistema-de-Ventas-Emely-Ponce.pdb
